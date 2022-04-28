@@ -8,7 +8,7 @@
 
 **需要 node >= 14**
 
-常用汉字：
+常用汉字：[https://github.com/wings-j/extract-regular-chinese-from-font/blob/master/data/regular.txt](https://github.com/wings-j/extract-regular-chinese-from-font/blob/master/data/regular.txt)
 
 # 安装
 
