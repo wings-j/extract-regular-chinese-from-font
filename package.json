@@ -1,6 +1,6 @@
 {
   "name": "extract-regular-chinese-from-font",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "抽取字体文件中的常用汉字",
   "author": "WingsJ",
   "license": "GPL-3.0-or-later",
@@ -12,7 +12,8 @@
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
-    "test": "node dist/index.js"
+    "test": "node dist/index.js",
+    "release": "npm publish --access public"
   },
   "bin": {
     "extract-regular-chinese-from-font": "./dist/index.js"
